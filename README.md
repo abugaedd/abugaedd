@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abugaedd
 - 👀 I’m interested in web development, python and cybersecurity
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning cybersecurity & software engineering
 
 
 <!---
